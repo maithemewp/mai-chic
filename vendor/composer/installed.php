@@ -6,7 +6,7 @@
     'aliases' => 
     array (
     ),
-    'reference' => 'c5d64aee5c10706c8e7f3e0f0d174ec4967c577b',
+    'reference' => 'efd5b46965b82809c065513dd77ce91d7485c5aa',
     'name' => 'maithemewp/mai-chic',
   ),
   'versions' => 
@@ -25,7 +25,7 @@
       'aliases' => 
       array (
       ),
-      'reference' => 'c5d64aee5c10706c8e7f3e0f0d174ec4967c577b',
+      'reference' => 'efd5b46965b82809c065513dd77ce91d7485c5aa',
     ),
     'maithemewp/mai-installer' => 
     array (
@@ -35,7 +35,7 @@
       array (
         0 => '9999999-dev',
       ),
-      'reference' => '1b637076d114af7762855493b9bac009a6272d5c',
+      'reference' => '44561c1f7bb4bb0022787bb44974b573b2bca72d',
     ),
   ),
 );
